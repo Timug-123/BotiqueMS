@@ -1,0 +1,13 @@
+BoutiqueMS\DAO\ProductDAOImpl.class
+BoutiqueMS\Service\ProductServiceImpl.class
+BoutiqueMS\package-info.class
+BoutiqueMS\Model\User.class
+BoutiqueMS\DAO\ProductDAO.class
+BoutiqueMS\DAO\package-info.class
+BoutiqueMS\ProductController.class
+BoutiqueMS\Service\package-info.class
+BoutiqueMS\Model\Order.class
+BoutiqueMS\ProductMagntController.class
+BoutiqueMS\Service\ProductService.class
+BoutiqueMS\Model\package-info.class
+BoutiqueMS\Model\Product.class
